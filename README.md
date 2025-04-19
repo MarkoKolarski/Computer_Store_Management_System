@@ -1,5 +1,12 @@
 # 💻 Computer Store Management System
 
+![Java](https://img.shields.io/badge/Java-JDK%208+-blue?logo=java)
+![JDBC](https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-yellow?logo=oracle)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-Oracle-blue?logo=oracle)
+![Data Modeler](https://img.shields.io/badge/Data%20Modeler-Oracle%20SQL%20Developer%20Data%20Modeler-orange?logo=oracle)
+![Relational Model](https://img.shields.io/badge/Relational%20Model-Enabled-green)
+![ACID](https://img.shields.io/badge/ACID-Supported-critical)
+
 ## 📘 Project Description
 The **Computer Store Management System** is a database-driven Java application designed to manage the operations of a computer store efficiently. It includes a complete set of functionalities for managing products, customers, orders, invoices, feedback, suppliers, and warehouses. The system is built using **Oracle SQL** for database management and **Java (JDBC)** for application logic and connectivity.
 
@@ -72,11 +79,11 @@ project-root/
 
 ---
 
-## 📊 Sample Outputs (Translated from Serbian for clarity)
+## 📊 Sample Outputs
 
 > 🔽 The following outputs were originally in Serbian and have been translated into English to improve understanding.
 
----
+
 
 ### 1️⃣ View Customer Purchase Statistics
 ```
@@ -141,8 +148,7 @@ Purchase completed successfully.
 
 ---
 
-## 📌 Notes
-- All outputs are **translated from Serbian** for international users or collaborators.
+## 📌 Note
 - The system supports **transactional operations**, such as creating a new purchase with a review, ensuring **ACID compliance**.
 
 ## 🗃️ Database Design
